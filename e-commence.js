@@ -26,9 +26,9 @@ if (first==1){
   toothpaste= 500*courage
 }else if(first==3){
   shirts=3000*courage
-}else if(first===4){
+}else if(first==4){
   singlet=1500*courage
-}else if(first===5){
+}else if(first==5){
   boxers=2000*courage
 }
 console.log(brush)
